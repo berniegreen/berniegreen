@@ -3,7 +3,7 @@
 **builder, educator, engineer** · `#constantlycurious`
 
 #### Here's a bit about me
-- **Currently**: building AI-native developer tools at [Greenfield Labs][gf-labs]
+- **Currently**: founder of [Greenfield Labs][gf-labs], building AI-native developer tools
 - **Path here**: ran the STEAM program at [The Harbour School][ths] → the Virtual Events group at [Microsoft Teams][teams] → founded Greenfield Labs
 - **What I like**: finding the tool a team keeps working around, and building the one they wish they had
 
