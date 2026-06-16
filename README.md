@@ -1,11 +1,11 @@
-## 👋 Hi there - I'm Bernie Green, a Software Engineer 
+## 👋 Hi there — I'm Bernie Green
+
+**builder, educator, engineer** · `#constantlycurious`
 
 #### Here's a bit about me
-- **Currently**: Software Engineer @ Microsoft
-<!-- - **Looking to**: Collaborate on EdTech and/or Productivity Open-Source Projects -->
-<!-- - **Open Source**: [DockerNet][dockernet] -->
-<!-- - **2022 goal**: see &uarr; -->
-<!-- - **Fact**: Motorbiking around the Ha Giang Loop *is totally worth it* 🏍️ 🇻🇳 🏞️ 🛣️🇳 -->
+- **Currently**: building AI-native developer tools at [Greenfield Labs][gf-labs]
+- **Path here**: ran the STEAM program at [The Harbour School][ths] → the Virtual Events group at [Microsoft Teams][teams] → founded Greenfield Labs
+- **What I like**: finding the tool a team keeps working around, and building the one they wish they had
 
 ---
 
@@ -35,31 +35,21 @@
 ---
 
 ### 🏠🖥️ Where I live on the web
-<!-- [<img align="left" alt="berniegreen" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="berniegreen.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="berniegreen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<!-- 
-[<img align="left" alt="berniegreen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="berniegreen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="berniegreen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
--->
-
+[<img align="left" alt="berniegreen | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="berniegreen | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
 
 <br />
 <br />
 
 ---
 
-[website]: http://www.berniegreen.com/ 
-[linkedin]: https://www.linkedin.com/in/bernardjosephgreen/
+[website]: https://berniegreen.com/
+[gf-labs]: https://github.com/gf-labs
+[ths]: https://www.ths.edu.hk/
+[teams]: https://www.microsoft.com/en-us/microsoft-teams/events
+[linkedin]: https://www.linkedin.com/in/berniegreen/
+[medium]: https://medium.com/@berniegreen
+[email]: mailto:hi@berniegreen.com
 [dockernet]: https://github.com/oslabs-beta/DockerNet
-<!-- 
-[twitter]: 
-[instagram]: 
-[youtube]: 
--->
-<!-- 
-credit and inpiration: 
- codeSTACKr: https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md
- coderjojo: https://github.com/coderjojo/creative-profile-readme
--->
