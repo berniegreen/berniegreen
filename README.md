@@ -52,4 +52,3 @@
 [linkedin]: https://www.linkedin.com/in/berniegreen/
 [medium]: https://medium.com/@berniegreen
 [email]: mailto:hi@berniegreen.com
-[dockernet]: https://github.com/oslabs-beta/DockerNet
